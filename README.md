@@ -1,4 +1,4 @@
-# Audio Processing Workflows
+# Video (and audio) captioning workflows
 
 Development of this documentation was generously funded by the ARC Centre of Excellence for the Dynamics of Language (CoEDL): https://www.dynamicsoflanguage.edu.au/
 
